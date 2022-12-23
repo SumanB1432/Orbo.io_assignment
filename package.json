@@ -1,0 +1,25 @@
+{
+  "name": "orbo.io_assignment",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumanB1432/Orbo.io_assignment.git"
+  },
+  "author": "Suman Bera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SumanB1432/Orbo.io_assignment/issues"
+  },
+  "homepage": "https://github.com/SumanB1432/Orbo.io_assignment#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "html": "^1.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
