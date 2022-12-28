@@ -13,3 +13,6 @@ If file is not found in `public` folder then its return error with status code `
 
 4)I use `public` folder to store the static files, and I serve files from `public` folder.
 5)USER CAN ONLY UPLOAD HTML/TXT/JSON FILES.
+6)WHEN YOU RUN POST API THEN PLEASE PROVIDE HTML/TXT/JSON FILE IN POSTMAN FORM DATA.
+7)THEN THE GIVEN FILE CREATED INTO THE PUBLIC FOLDER.
+8)THANK YOU.
