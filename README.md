@@ -12,3 +12,4 @@ APPROACH :-
 If file is not found in `public` folder then its return error with status code `404`.
 
 4)I use `public` folder to store the static files, and I serve files from `public` folder.
+5)USER CAN ONLY UPLOAD HTML/TXT/JSON FILES.
